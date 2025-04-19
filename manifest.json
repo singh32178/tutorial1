@@ -12,5 +12,7 @@
             "32": "rocket.png"
         },
         "default_title": "click me"
-    }
+    },
+    "options_page": "options.html"
+    
 }
