@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "My Extension Tutorial ",
+    "version": "0.0.1",
+    "description": "My Extension for Hello World",
+    "icons": {
+        "32": "rocket.png"
+      },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "32": "rocket.png"
+        },
+        "default_title": "click me"
+    }
+}
